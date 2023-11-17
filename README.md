@@ -1,5 +1,5 @@
 # Hotspex-Test
-The solutions to Module 2 contains the following aspects:
+My solution to Module 2 contains the following aspects:
 1. Data preprocessing: dataset exploratory analysis, missing values Handling, data Standardization
 
 2. Linear regression model building
